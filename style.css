@@ -1,0 +1,38 @@
+body{
+    text-align: center  ;
+}
+.btn{
+    background-color: steelblue;
+    margin: 15px 5px 5px 10px;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+}
+.container{
+    border: 3px solid black;
+    margin-left: 400px;
+    width: 600px;
+    min-height: 700px;
+}
+.btn:hover{
+    background-color: skyblue; 
+}
+#todo-item{
+    width: 300px;
+    height: 30px;
+    border: 3px solid black;
+    font-size: 22px;
+}
+#list{
+    font-size: 20px;
+    list-style:disc;
+    text-align: left;
+}
+.enterTodo{
+    margin-top:30px;
+}
+.listItems{
+    width: 530px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
